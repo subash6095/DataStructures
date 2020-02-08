@@ -1,4 +1,4 @@
-package scenarios;
+package problemSolving.scenarios;
 
 public class TrappingRainWater {
     // Java program to find maximum amount of water that can
