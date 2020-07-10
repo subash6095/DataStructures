@@ -1,4 +1,4 @@
-package basic.finalDetails;
+package javaBasic.finalDetails;
 
 public class FinalExample {
     final int a = 10;

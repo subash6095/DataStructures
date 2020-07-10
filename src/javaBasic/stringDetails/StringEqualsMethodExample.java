@@ -1,4 +1,4 @@
-package basic.stringDetails;
+package javaBasic.stringDetails;
 /*
 Question: How == operator works in Java?
 

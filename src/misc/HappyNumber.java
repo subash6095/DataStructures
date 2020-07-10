@@ -1,6 +1,6 @@
 package misc;
 
-public class New {
+public class HappyNumber {
 
     public static int happyNumber(int num) {
         return arriveAt1(num) ? 1 : 0;

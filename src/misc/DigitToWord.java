@@ -1,6 +1,6 @@
 package misc;
 
-public class Q3 {
+public class DigitToWord {
 
     static String convert_to_words(char[] num)
     {

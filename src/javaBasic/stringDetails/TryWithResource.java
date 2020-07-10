@@ -1,4 +1,4 @@
-package basic.stringDetails;
+package javaBasic.stringDetails;
 
 import java.io.File;
 import java.io.FileNotFoundException;
